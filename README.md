@@ -60,9 +60,11 @@ tar xvzf kafka_2.12-1.0.0.tgz
 
 
 #### Running Kafka
-1. To start kafka go to <install dir>/kafka_2.12-1.0.0/bin
+1. To start kafka go to `~/Desktop/kafka-streams/libs/kafka_2.12-1.0.0/bin`
 2. Run `./zookeeper-server-start.sh ../config/zookeeper.properties`
 3. Run `./kafka-server-start.sh ../config/server.properties`
+
+**Note:** Run above commands in new terminals.
 
 
 #### Running the Kafka Streams examples
@@ -90,6 +92,8 @@ example programs are located in the build.gradle file.  For your convenience her
 7. ./gradlew runCountingWindowingChapter_5
 8. ./gradlew runGlobalKtableChapter_5
 9. ./gradlew runKStreamKTableChapter_5
+
+![](./images/3.png)
 
 
 #### Example Kafka Streams Program Output
