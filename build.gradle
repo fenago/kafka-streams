@@ -18,7 +18,7 @@ apply plugin: 'org.junit.platform.gradle.plugin'
 group = 'bbejeck'
 version = '1.0-SNAPSHOT'
 
-description = "Source Code for the Kafka Streams in Action Book"
+description = "Source Code for the Kafka Streams"
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
