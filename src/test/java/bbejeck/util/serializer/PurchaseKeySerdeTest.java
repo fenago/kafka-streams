@@ -12,7 +12,7 @@ import static org.mockito.internal.matchers.Equality.areEqual;
 
 
 /**
- * User: Bill Bejeck
+
  * Date: 3/25/18
  * Time: 6:50 PM
  */

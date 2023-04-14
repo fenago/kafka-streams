@@ -13,7 +13,7 @@ import org.apache.kafka.streams.kstream.KStream;
 import org.apache.kafka.streams.kstream.Produced;
 
 /**
- * User: Bill Bejeck
+
  * Date: 9/9/17
  * Time: 9:52 AM
  */

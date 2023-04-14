@@ -16,7 +16,7 @@ import org.apache.kafka.streams.state.StoreBuilder;
 import org.apache.kafka.streams.state.Stores;
 
 /**
- * User: Bill Bejeck
+
  * Date: 9/10/17
  * Time: 3:54 PM
  */

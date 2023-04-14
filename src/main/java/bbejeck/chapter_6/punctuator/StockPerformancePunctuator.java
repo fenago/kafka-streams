@@ -8,7 +8,7 @@ import org.apache.kafka.streams.state.KeyValueIterator;
 import org.apache.kafka.streams.state.KeyValueStore;
 
 /**
- * User: Bill Bejeck
+
  * Date: 8/14/17
  * Time: 7:06 PM
  */

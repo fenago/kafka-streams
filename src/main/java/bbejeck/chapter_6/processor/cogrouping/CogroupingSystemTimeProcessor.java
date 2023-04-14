@@ -14,7 +14,7 @@ import java.util.List;
 import static org.apache.kafka.streams.processor.PunctuationType.WALL_CLOCK_TIME;
 
 /**
- * User: Bill Bejeck
+
  * Date: 8/12/17
  * Time: 10:54 AM
  */

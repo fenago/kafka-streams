@@ -22,7 +22,7 @@ import static org.hamcrest.CoreMatchers.notNullValue;
 import static org.hamcrest.MatcherAssert.assertThat;
 
 /**
- * User: Bill Bejeck
+
  * Date: 9/10/17
  * Time: 4:36 PM
  */
